@@ -10,6 +10,8 @@ namespace GreatQuotes
             BindingContext = quote;
             InitializeComponent ();
         }
+
+
     }
 }
 
